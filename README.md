@@ -7,7 +7,6 @@
 ต้องใช้ Angular Forms (Template-Driven หรือ Reactive Form)
 
 ## เงื่อนไขเพิ่มเติม:
-
 ต้องมี Validation เบื้องต้น เช่น ช่อง Email ต้องกรอกให้ครบ และต้องเป็นรูปแบบอีเมล
 
 #
